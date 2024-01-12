@@ -40,7 +40,7 @@ fun LoginPage(){
     ){
         LoginPageImage()
         LoginInPut()
-        Spacer(modifier = Modifier.weight(3f))
+        Spacer(modifier = Modifier.weight(0.3f))
         LoginPageCotentButtons(content = stringResource(id = R.string.content))
     }
 

@@ -5,6 +5,8 @@
     <string name="Login">Login</string>
     <string name="SignUp">SignUp</string>
     <string name="user_name">Enter your User name</string>
+    <string name="Email">Enter your e-mail</string>
     <string name="password">Enter your Password</string>
     <string name="or">Or</string>
+    <string name="OR">Or</string>
 </resources>
