@@ -1,4 +1,4 @@
-# HustyApp
+# HustyApp#classes haha.
 
 ![Huskylogin001](https://github.com/GMurira/HustyApp/assets/118381779/3114e9eb-3ebf-41dd-8895-45a763cecfc4)
 #Still Working on the navigation and the other app icons
